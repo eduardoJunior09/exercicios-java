@@ -1,6 +1,6 @@
 <h2>Repositório JAVA</h2>
 
-<p>Este repositório é dedicado aos exercícios desenvolvidos em Java, principalmente aqueles do curso ministrado por Nélio Alves. Aqui estão armazenados os exercícios utilizados durante o aprendizado.</p>
+<p>Este repositório é dedicado aos exercícios desenvolvidos em Java, principalmente aqueles do curso ministrado por Nélio Alves e Gustavo Guanabara. Aqui estão armazenados os exercícios utilizados durante o aprendizado.</p>
 
 <h3>Conceitos Abordados</h3>
 
